@@ -91,3 +91,9 @@ p{
   align-items: center;
   text-align: center;
 }
+.content h1{
+  align-self: flex-start;
+  color: white;
+  font-size: 30px;
+  padding-bottom: 40px;
+}
